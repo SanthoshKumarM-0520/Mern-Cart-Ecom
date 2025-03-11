@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Wireless Bluetooth Earbuds-test",
+    "price": 4999,
+    "description": "High-quality noise-canceling Bluetooth earbuds with deep bass.",
+    "ratings": 4.75,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/products/2.jpg"
+      }
+    ],
+    "category": "Sports",
+    "type": "Accessories",
+    "seller": "TechGear",
+    "stock": 0,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "user": "65c54321abcd987654321100",
+        "name": "Alex Smith",
+        "rating": 4.5,
+        "comment": "Amazing sound and battery life!"
+      },
+      {
+        "user": "67ce7b26488b484874643591",
+        "name": "mani",
+        "rating": 5,
+        "comment": "testing review 3"
+      }
+    ],
+    "user": "65c54321abcd987654321097",
+    "createdAt": "2024-03-06T12:30:00.000Z"
+  },
+  {
+    "name": "Running Shoes",
+    "price": 3500,
+    "description": "Lightweight and comfortable running shoes for daily wear.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/products/3.jpg"
+      }
+    ],
+    "category": "Footwear",
+    "type": "Accessories",
+    "seller": "ActiveWear",
+    "stock": 13,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "user": "65c54321abcd987654321102",
+        "name": "Sarah Lee",
+        "rating": 4.7,
+        "comment": "Very durable and stylish!"
+      },
+      {
+        "user": "65c54321abcd987654321103",
+        "name": "David Wilson",
+        "rating": 4.5,
+        "comment": "Perfect fit and lightweight."
+      }
+    ],
+    "user": "65c54321abcd987654321097",
+    "createdAt": "2024-03-06T13:00:00.000Z"
+  },
+  {
+    "name": "Luxury Skincare Set",
+    "price": 6999,
+    "description": "A premium skincare set including cleanser, toner, moisturizer, and serum.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/products/4.jpg"
+      }
+    ],
+    "category": "Beauty/Health",
+    "type": "Accessories",
+    "seller": "Glow Essentials",
+    "stock": 10,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "user": "65c54321abcd987654321104",
+        "name": "Emily Carter",
+        "rating": 5,
+        "comment": "My skin has never felt better!"
+      },
+      {
+        "user": "65c54321abcd987654321105",
+        "name": "Sophia Williams",
+        "rating": 4.8,
+        "comment": "Loved the quality and packaging!"
+      }
+    ],
+    "user": "65c54321abcd987654321097",
+    "createdAt": "2024-03-06T14:00:00.000Z"
+  },
+  {
+    "name": "Waterproof Hiking Backpack",
+    "price": 5999,
+    "description": "Durable, waterproof backpack with multiple compartments for hiking and travel.",
+    "ratings": 7.049999999999999,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/products/5.jpg"
+      }
+    ],
+    "category": "Outdoor",
+    "type": "Accessories",
+    "seller": "AdventurePro",
+    "stock": 25,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "user": "65c54321abcd987654321107",
+        "name": "Olivia Martin",
+        "rating": 4.6,
+        "comment": "Super durable and comfortable to carry."
+      },
+      {
+        "user": "65c54321abcd987654321108",
+        "name": "Ethan Johnson",
+        "rating": 4.7,
+        "comment": "Great build quality and waterproof!"
+      }
+    ],
+    "user": "65c54321abcd987654321097",
+    "createdAt": "2024-03-06T14:30:00.000Z"
+  },
+  {
+    "name": "Elegant Silk Dress",
+    "price": 4999,
+    "description": "A beautiful silk dress perfect for any occasion.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/products/6.jpg"
+      }
+    ],
+    "category": "Clothing",
+    "type": "Women",
+    "seller": "Fashion Hub",
+    "stock": 25,
+    "numOfReviews": 10,
+    "reviews": [
+      {
+        "user": "65f4a2b1c9e4a3f7e1b23456",
+        "name": "Alice",
+        "rating": 5,
+        "comment": "Absolutely loved this dress!"
+      }
+    ],
+    "user": "65f4a2b1c9e4a3f7e1b23456",
+    "createdAt": "2025-03-07T08:15:50.790Z"
+  },
+  {
+    "name": "Luxury Handbag",
+    "price": 2999,
+    "description": "A premium quality handbag with a stylish look.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/products/7.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "type": "Women",
+    "seller": "Trendy Bags",
+    "stock": 50,
+    "numOfReviews": 15,
+    "reviews": [],
+    "user": "65f4a2b1c9e4a3f7e1b23457",
+    "createdAt": "2025-03-07T08:15:50.790Z"
+  },
+  {
+    "name": "Comfortable Heels",
+    "price": 2499,
+    "description": "Stylish and comfortable high heels for daily wear.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/products/8.jpg"
+      }
+    ],
+    "category": "Footwear",
+    "type": "Women",
+    "seller": "Shoe World",
+    "stock": 30,
+    "numOfReviews": 8,
+    "reviews": [],
+    "user": "65f4a2b1c9e4a3f7e1b23458",
+    "createdAt": "2025-03-07T08:15:50.791Z"
+  },
+  {
+    "name": "Classic Leather Jacket",
+    "price": 499,
+    "description": "A stylish leather jacket for a bold look.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/products/9.jpg"
+      }
+    ],
+    "category": "Clothing",
+    "type": "Men",
+    "seller": "Urban Wear",
+    "stock": 20,
+    "numOfReviews": 12,
+    "reviews": [],
+    "user": "65f4a2b1c9e4a3f7e1b23459",
+    "createdAt": "2025-03-07T08:15:50.791Z"
+  },
+  {
+    "name": "Running Shoes",
+    "price": 3999,
+    "description": "Lightweight and comfortable running shoes.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/products/10.jpg"
+      }
+    ],
+    "category": "Sports",
+    "type": "Men",
+    "seller": "Athlete Gear",
+    "stock": 35,
+    "numOfReviews": 1,
+    "reviews": [
+      {
+        "user": "67ce7b26488b484874643591",
+        "name": "mani",
+        "rating": 3,
+        "comment": "testing reviews-2"
+      }
+    ],
+    "user": "65f4a2b1c9e4a3f7e1b23460",
+    "createdAt": "2025-03-07T08:15:50.792Z"
+  },
+  {
+    "name": "Formal Watch",
+    "price": 6999,
+    "description": "A luxury wristwatch with a classic design.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/products/11.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "type": "Men",
+    "seller": "Timepieces Ltd",
+    "stock": 15,
+    "numOfReviews": 5,
+    "reviews": [],
+    "user": "65f4a2b1c9e4a3f7e1b23461",
+    "createdAt": "2025-03-07T08:15:50.792Z"
+  },
+  {
+    "name": "Colorful Sneakers",
+    "price": 1999,
+    "description": "Trendy and comfortable sneakers for kids.",
+    "ratings": null,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/products/14.jpg"
+      }
+    ],
+    "category": "Footwear",
+    "type": "Kids",
+    "seller": "Tiny Steps",
+    "stock": 33,
+    "numOfReviews": 0,
+    "reviews": [],
+    "user": "65f4a2b1c9e4a3f7e1b23464",
+    "createdAt": "2025-03-07T08:15:50.793Z"
+  },
+  {
+    "name": "test product post",
+    "price": 500,
+    "description": "test product post test product post test product post test product post test product post test product post test product post test product post ",
+    "ratings": 0,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/products/chair.jpg"
+      },
+      {
+        "image": "http://127.0.0.1:8000/uploads/products/test-img-finalxx.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "type": "",
+    "seller": "xyz",
+    "stock": 9,
+    "numOfReviews": 0,
+    "reviews": [],
+    "user": "67cee8c9884966c39534077b",
+    "createdAt": "2025-03-11T06:00:41.829Z"
+  }
+]
