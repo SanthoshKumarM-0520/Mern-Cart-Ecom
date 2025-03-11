@@ -1,6 +1,6 @@
 # MERN Stack Full Ecommerce Site
 
-Powerful MERN Stack Ecommerce Project using React, Redux, Node.js, Express, MongoDB, Stripe.using Redux for state management, stipe to handle our payments and follow the best practices to implement Authentication & Authorization.
+Powerful MERN Stack E-Commerce Project using React, Redux, Node.js, Express, MongoDB, and Stripe. Features user authentication (JWT), product management (CRUD), shopping cart, secure payments, order tracking, admin dashboard, search, and filtering. Built for scalability and performance, ensuring a seamless shopping experience
 
 ## Features
 
